@@ -53,7 +53,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-gray-100 py-8 px-4">
       <div className="max-w-4xl mx-auto">
-        <h1 className="text-4xl font-bold text-center mb-8 text-black">Anjana's Note App - v1.0.6</h1>
+        <h1 className="text-4xl font-bold text-center mb-8 text-black">Anjana's Note App - v1.0.7</h1>
         <form onSubmit={handleSubmit} className="bg-white p-6 rounded-lg shadow-md mb-8">
           <input
             type="text"
